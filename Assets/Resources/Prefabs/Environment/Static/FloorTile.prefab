@@ -98,5 +98,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _renderer: {fileID: 0}
-  _baseColor: {r: 0.47058824, g: 0.47058824, b: 0.47058824, a: 0}
-  _offsetColor: {r: 0.7058824, g: 0.7058824, b: 0.7058824, a: 0}
+  _baseColor: {r: 0.47058824, g: 0.47058824, b: 0.47058824, a: 1}
+  _offsetColor: {r: 0.7058824, g: 0.7058824, b: 0.7058824, a: 1}
